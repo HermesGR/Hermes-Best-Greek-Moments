@@ -1,0 +1,24 @@
+# Hermes-Best-Greek-Moments
+
+#EXTM3U
+
+#EXTINF:1,EUROBASKET 1987 ΤΕΛΙΚΟΣ (ΕΛΛΑΔΑ - ΣΟΒΙΕΤΙΚΗ ΕΝΩΣΗ)
+plugin://plugin.video.youtube/?action=play_video&videoid=w4hG9fx8ctI
+
+#EXTINF:1,Euro 2004 Αθλητική Ανασκόπηση: Μέρος 1 Εισαγωγή
+plugin://plugin.video.youtube/?action=play_video&videoid=QB26YidnpTI
+
+#EXTINF:1,Euro 2004 Αθλητική Ανασκόπηση: Μέρος 3 Ελλάδα-Ισπανία
+plugin://plugin.video.youtube/?action=play_video&videoid=clznSj1jFVU
+
+#EXTINF:1,Euro 2004 Αθλητική Ανασκόπηση: Μέρος 4 Ελλάδα-Ρωσία
+plugin://plugin.video.youtube/?action=play_video&videoid=ukoNZg5AM1M
+
+#EXTINF:1,Euro 2004 Τελικός: Πορτογαλία - Ελλάδα 0-1
+plugin://plugin.video.youtube/?action=play_video&videoid=crxc5WQJyPc
+
+#EXTINF:1,ΜΟΥΝΤΟΜΠΑΣΚΕΤ 2006 ΕΛΛΑΔΑ-U.S.A. 101-95
+plugin://plugin.video.youtube/?action=play_video&videoid=KD_mkYiprSM
+
+#EXTINF:1,ΕΛΛΑΔΑ VS ΕΣΣΔ 103-101 ΤΕΛΙΚΟΣ EUROBASKET '87
+plugin://plugin.video.youtube/?action=play_video&videoid=cGOXAheCbf4
