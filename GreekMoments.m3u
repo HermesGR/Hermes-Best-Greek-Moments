@@ -41,6 +41,21 @@ plugin://plugin.video.youtube/?action=play_video&videoid=SYF1Qy9u8xA
 #EXTINF:1,Η Πορεία της Αεκ στο Champions League το 1994
 plugin://plugin.video.youtube/?action=play_video&videoid=w90MucmGUJ4
 
+#EXTINF:1,ΑΕΚ - Ολυμπιακός 2-1 ΤΕΛΙΚΟΣ ΚΥΠΕΛΛΟΥ 2002
+plugin://plugin.video.youtube/?action=play_video&videoid=j5ORHAaQe2Y
+
+#EXTINF:1,ΟΛΥΜΠΙΑΚΟΣ-ΑΕΚ 4-4 (15-14 ΣΤΑ ΠΕΝΑΛΤΥ) TEΛΙΚΟΣ ΚΥΠΕΛΛΟΥ 2009
+plugin://plugin.video.youtube/?action=play_video&videoid=YWm9YhPlE8A
+
+#EXTINF:1,ΑΕΚ - ΟΛΥΜΠΙΑΚΟΣ 2-1 (ΤΕΛΙΚΟΣ ΚΥΠΕΛΛΟΥ 2002) 
+plugin://plugin.video.youtube/?action=play_video&videoid=R5A5BxqmSmU
+
+#EXTINF:1,ΑΕΚ - ΟΛΥΜΠΙΑΚΟΣ 4-0 (30/03/2008)
+plugin://plugin.video.youtube/?action=play_video&videoid=QtWi7rP-iss
+
+#EXTINF:1,Ολυμπιακος - AEK 1-2 (2010-Full highlights)
+plugin://plugin.video.youtube/?action=play_video&videoid=N9OLETaKX5Q
+
 #EXTINF:1,Ο ΠΑΝΑΘΗΝΑΙΚΟΣ ΣΕ ΜΕΓΑΛΕΣ ΕΥΡΩΠΑΙΚΕΣ ΕΜΦΑΝΙΣΕΙΣ (2001-2002)
 plugin://plugin.video.youtube/?action=play_video&videoid=syRDGgTI5Ak
 
@@ -58,3 +73,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=nXQI0KMTr98
 
 #EXTINF:1,Panathinaikos - Nights to Remember (European Cups)
 plugin://plugin.video.youtube/?action=play_video&videoid=L0a8VtZCqfc
+
+#EXTINF:1,ΑΕΚ - ΠΑΝΑΘΗΝΑΙΚΟΣ 2-3 (ΚΥΠΕΛΛΟ 02/02/11)
+plugin://plugin.video.youtube/?action=play_video&videoid=zzRyjfV8Xdg
