@@ -22,3 +22,39 @@ plugin://plugin.video.youtube/?action=play_video&videoid=KD_mkYiprSM
 
 #EXTINF:1,ΕΛΛΑΔΑ VS ΕΣΣΔ 103-101 ΤΕΛΙΚΟΣ EUROBASKET '87
 plugin://plugin.video.youtube/?action=play_video&videoid=cGOXAheCbf4
+
+#EXTINF:1,ΟΛΥΜΠΙΑΚΟΣ-ΑΕΚ 0-1 (1989)
+plugin://plugin.video.youtube/?action=play_video&videoid=rw4x_6JjnWA
+
+#EXTINF:1,ΑΕΚ - ΟΛΥΜΠΙΑΚΟΣ 3-1 (1992-93)
+plugin://plugin.video.youtube/?action=play_video&videoid=CnnYKBLYYl8
+
+#EXTINF:1,ΑΕΚ-ΟΛΥΜΠΙΑΚΟΣ 3-2 (ΚΥΠΕΛΛΟ 1992-93)
+plugin://plugin.video.youtube/?action=play_video&videoid=q1hzifhylf8
+
+#EXTINF:1,ΑΕΚ - ΠΑΝΑΘΗΝΑΙΚΟΣ 3-1 (1992-93)
+plugin://plugin.video.youtube/?action=play_video&videoid=OvNwoZwNhjQ
+
+#EXTINF:1,AEK-ΟΛΥΜΠΙΑΚΟΣ 3-0 Κυπελλο Ελλαδος (1999-00)
+plugin://plugin.video.youtube/?action=play_video&videoid=SYF1Qy9u8xA
+
+#EXTINF:1,Η Πορεία της Αεκ στο Champions League το 1994
+plugin://plugin.video.youtube/?action=play_video&videoid=w90MucmGUJ4
+
+#EXTINF:1,Ο ΠΑΝΑΘΗΝΑΙΚΟΣ ΣΕ ΜΕΓΑΛΕΣ ΕΥΡΩΠΑΙΚΕΣ ΕΜΦΑΝΙΣΕΙΣ (2001-2002)
+plugin://plugin.video.youtube/?action=play_video&videoid=syRDGgTI5Ak
+
+#EXTINF:1,AJAX - ΠΑΝΑΘΗΝΑΙΚΟΣ 0-1 (1995-96)
+plugin://plugin.video.youtube/?action=play_video&videoid=1AkFJVxtPJo
+
+#EXTINF:1,ΠΑΝΑΘΗΝΑΙΚΟΣ - JUVENTUS 3-1 
+plugin://plugin.video.youtube/?action=play_video&videoid=_YC26spbawY
+
+#EXTINF:1,SCHALKE - ΠΑΝΑΘΗΝΑΙΚΟΣ 0-2
+plugin://plugin.video.youtube/?action=play_video&videoid=EWAD9OyVvlc
+
+#EXTINF:1,ΠΑΝΑΘΗΝΑΙΚΟΣ - BARCELONA 1-0 (2001-02)
+plugin://plugin.video.youtube/?action=play_video&videoid=nXQI0KMTr98
+
+#EXTINF:1,Panathinaikos - Nights to Remember (European Cups)
+plugin://plugin.video.youtube/?action=play_video&videoid=L0a8VtZCqfc
