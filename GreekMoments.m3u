@@ -5,6 +5,12 @@
 #EXTINF:1,EUROBASKET 1987 ΤΕΛΙΚΟΣ (ΕΛΛΑΔΑ - ΣΟΒΙΕΤΙΚΗ ΕΝΩΣΗ)
 plugin://plugin.video.youtube/?action=play_video&videoid=w4hG9fx8ctI
 
+#EXTINF:1,Έλλαδα Γιουγκοσλαβία ημιτελικός 1987
+plugin://plugin.video.youtube/?action=play_video&videoid=uc7slMiSCL8
+
+#EXTINF:1,Ελλάδα - Γιουγκοσλαβία (ημιτελικός '95)
+plugin://plugin.video.youtube/?action=play_video&videoid=Xm15ztztvpU
+
 #EXTINF:1,Euro 2004 Αθλητική Ανασκόπηση: Μέρος 1 Εισαγωγή
 plugin://plugin.video.youtube/?action=play_video&videoid=QB26YidnpTI
 
@@ -20,8 +26,38 @@ plugin://plugin.video.youtube/?action=play_video&videoid=crxc5WQJyPc
 #EXTINF:1,ΜΟΥΝΤΟΜΠΑΣΚΕΤ 2006 ΕΛΛΑΔΑ-U.S.A. 101-95
 plugin://plugin.video.youtube/?action=play_video&videoid=KD_mkYiprSM
 
+#EXTINF:1,EuroBasket 2013: Ελλάδα - Ισπανία 79-75 (12/9/2013)
+plugin://plugin.video.youtube/?action=play_video&videoid=P09JbhdJCvA
+
+#EXTINF:1,ΕΛΛΑΔΑ-ΣΕΡΒΙΑ 72-64(ΕΥΡΩΜΠΑΣΚΕΤ 2003)
+plugin://plugin.video.youtube/?action=play_video&videoid=aTcoBKQyepA
+
+#EXTINF:1,ΕΛΛΑΔΑ ΙΤΑΛΙΑ 83- 82(ΕΥΡΩΜΠΑΣΚΕΤ 2001)
+plugin://plugin.video.youtube/?action=play_video&videoid=VgU69NiBsFI
+
+#EXTINF:1,ΕΛΛΑΔΑ ΣΛΟΒΕΝΙΑ 63-62 ΕΥΡΩΜΠΑΣΚΕΤ 2007(Η ΜΕΓΑΛΗ ΑΝΑΤΡΟΠΗ)
+plugin://plugin.video.youtube/?action=play_video&videoid=ar_dXLBd9WU
+
+#EXTINF:1,ΕΛΛΑΔΑ ΣΕΡΒΙΑ 68-67 ΕΥΡΟΜΠΑΣΚΕΤ 2007
+plugin://plugin.video.youtube/?action=play_video&videoid=Kk-gWUNSCkQ
+
+#EXTINF:1,ΕΛΛΑΔΑ ΚΡΟΑΤΙΑ 81-78 ΕΥΡΟΜΠΑΣΚΕΤ 2007
+plugin://plugin.video.youtube/?action=play_video&videoid=UqQa3H045oI
+
 #EXTINF:1,ΕΛΛΑΔΑ VS ΕΣΣΔ 103-101 ΤΕΛΙΚΟΣ EUROBASKET '87
 plugin://plugin.video.youtube/?action=play_video&videoid=cGOXAheCbf4
+
+#EXTINF:1,ΠΑΝΑΘΗΝΑΙΚΟΣ - ΑΡΗΣ 68-83 ΗΜΙΤΕΛΙΚΟΣ ΚΥΠΕΛΛΟΥ 1998
+plugin://plugin.video.youtube/?action=play_video&videoid=iFoFs-mU7MY
+
+#EXTINF:1,Άρης - Αεκ 71-68 Τελικός κυπέλλου (Aλεξάνδρειο) 1/2/98
+plugin://plugin.video.youtube/?action=play_video&videoid=EFE6kDR4i44
+
+#EXTINF:1,ΕΦΕΣ ΠΙΛΣΕΝ-ΑΡΗΣ 48-50 ΤΕΛΙΚΟΣ ΚΥΠΕΛΛΟΥΧΩΝ 1993
+plugin://plugin.video.youtube/?action=play_video&videoid=u9qqONa33lY
+
+#EXTINF:1,Tofas Bursa - Aris Thessaloniki 70-88 Final Korac cup 3/4/97
+plugin://plugin.video.youtube/?action=play_video&videoid=obRelUQIrHM
 
 #EXTINF:1,ΟΛΥΜΠΙΑΚΟΣ-ΑΕΚ 0-1 (1989)
 plugin://plugin.video.youtube/?action=play_video&videoid=rw4x_6JjnWA
