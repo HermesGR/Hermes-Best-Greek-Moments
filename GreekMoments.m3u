@@ -2,6 +2,12 @@
 
 #EXTM3U
 
+#EXTINF:1,Για πάντα πρωταθλητές - Εθνική μπάσκετ (1o μέρος)
+plugin://plugin.video.youtube/?action=play_video&videoid=GuqxH8N_zgM
+
+#EXTINF:1,Για πάντα πρωταθλητές - Εθνική μπάσκετ (2ο μέρος)
+plugin://plugin.video.youtube/?action=play_video&videoid=QaP2B8ytrq8
+
 #EXTINF:1,EUROBASKET 1987 ΤΕΛΙΚΟΣ (ΕΛΛΑΔΑ - ΣΟΒΙΕΤΙΚΗ ΕΝΩΣΗ)
 plugin://plugin.video.youtube/?action=play_video&videoid=w4hG9fx8ctI
 
@@ -47,11 +53,35 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UqQa3H045oI
 #EXTINF:1,ΕΛΛΑΔΑ VS ΕΣΣΔ 103-101 ΤΕΛΙΚΟΣ EUROBASKET '87
 plugin://plugin.video.youtube/?action=play_video&videoid=cGOXAheCbf4
 
+#EXTINF:1,Άρης - Για πάντα πρωταθλητές
+plugin://plugin.video.youtube/?action=play_video&videoid=Dc62a9gj8hg
+
 #EXTINF:1,ΠΑΝΑΘΗΝΑΙΚΟΣ - ΑΡΗΣ 68-83 ΗΜΙΤΕΛΙΚΟΣ ΚΥΠΕΛΛΟΥ 1998
 plugin://plugin.video.youtube/?action=play_video&videoid=iFoFs-mU7MY
 
-#EXTINF:1,Άρης - Αεκ 71-68 Τελικός κυπέλλου (Aλεξάνδρειο) 1/2/98
+#EXTINF:1,Άρης - Αεκ 71-68 Τελικός κυπέλλου (Aλεξάνδρειο - 1/2/98)
 plugin://plugin.video.youtube/?action=play_video&videoid=EFE6kDR4i44
+
+#EXTINF:1,Aris - Tracer Milano 98-67 European Cup Champions (30/10/86)
+plugin://plugin.video.youtube/?action=play_video&videoid=6Cdv3DVJXsA
+
+#EXTINF:1,Barcelona - Aris  88-89 (1987)
+plugin://plugin.video.youtube/?action=play_video&videoid=44QY9UDWURI
+
+#EXTINF:1,ΑΡΗΣ-ΤΡΕΙΣΕΡ 120-95 ΠΡΩΤΑΘΛΗΤΡΙΩΝ (1987/88)
+plugin://plugin.video.youtube/?action=play_video&videoid=3fCydJIyVKU
+
+#EXTINF:1,ΕΦΕΣ ΠΙΛΣΕΝ-ΑΡΗΣ 48-50 ΤΕΛΙΚΟΣ ΚΥΠΕΛΛΟΥΧΩΝ 1993
+plugin://plugin.video.youtube/?action=play_video&videoid=u9qqONa33lY
+
+#EXTINF:1,Ugoplastika Split - Aris 85-89 European Cup Champions (25/1/90)
+plugin://plugin.video.youtube/?action=play_video&videoid=JJpyGjDRtdI
+
+#EXTINF:1,Άρης (ποδόσφαιρο) - Η πορεία στο Ελληνικό πρωτάθλημα 1993-94
+plugin://plugin.video.youtube/?action=play_video&videoid=EODfIRCTNxI
+
+#EXTINF:1,Άρης - Σκαβολίνι Πέζαρο 96-95 Πρωταθλητριών (31/1/91)
+plugin://plugin.video.youtube/?action=play_video&videoid=PcOmj-sRMAU
 
 #EXTINF:1,ΕΦΕΣ ΠΙΛΣΕΝ-ΑΡΗΣ 48-50 ΤΕΛΙΚΟΣ ΚΥΠΕΛΛΟΥΧΩΝ 1993
 plugin://plugin.video.youtube/?action=play_video&videoid=u9qqONa33lY
