@@ -8,10 +8,10 @@ plugin://plugin.video.youtube/?action=play_video&videoid=GuqxH8N_zgM
 #EXTINF:1,Για πάντα πρωταθλητές - Εθνική μπάσκετ (2ο μέρος)
 plugin://plugin.video.youtube/?action=play_video&videoid=QaP2B8ytrq8
 
-#EXTINF:1,EUROBASKET 1987 ΤΕΛΙΚΟΣ (ΕΛΛΑΔΑ - ΣΟΒΙΕΤΙΚΗ ΕΝΩΣΗ)
+#EXTINF:1,Eurobasket 1987 Τελικός (ΕΛΛΑΔΑ - ΣΟΒΙΕΤΙΚΗ ΕΝΩΣΗ)
 plugin://plugin.video.youtube/?action=play_video&videoid=w4hG9fx8ctI
 
-#EXTINF:1,Έλλαδα Γιουγκοσλαβία ημιτελικός 1987
+#EXTINF:1,Έλλαδα - Γιουγκοσλαβία (ημιτελικός 1987)
 plugin://plugin.video.youtube/?action=play_video&videoid=uc7slMiSCL8
 
 #EXTINF:1,Ελλάδα - Γιουγκοσλαβία (ημιτελικός '95)
@@ -29,7 +29,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=ukoNZg5AM1M
 #EXTINF:1,Euro 2004 Τελικός: Πορτογαλία - Ελλάδα 0-1
 plugin://plugin.video.youtube/?action=play_video&videoid=crxc5WQJyPc
 
-#EXTINF:1,ΜΟΥΝΤΟΜΠΑΣΚΕΤ 2006 ΕΛΛΑΔΑ-U.S.A. 101-95
+#EXTINF:1,Μουντομπάσκετ 2006 ΕΛΛΑΔΑ-U.S.A. 101-95
 plugin://plugin.video.youtube/?action=play_video&videoid=KD_mkYiprSM
 
 #EXTINF:1,EuroBasket 2013: Ελλάδα - Ισπανία 79-75 (12/9/2013)
@@ -56,7 +56,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=cGOXAheCbf4
 #EXTINF:1,Άρης - Για πάντα πρωταθλητές
 plugin://plugin.video.youtube/?action=play_video&videoid=Dc62a9gj8hg
 
-#EXTINF:1,ΠΑΝΑΘΗΝΑΙΚΟΣ - ΑΡΗΣ 68-83 ΗΜΙΤΕΛΙΚΟΣ ΚΥΠΕΛΛΟΥ 1998
+#EXTINF:1,Παναθηναικός - Άρης 68-83 Ημιτελικός Κυπέλλου 1998
 plugin://plugin.video.youtube/?action=play_video&videoid=iFoFs-mU7MY
 
 #EXTINF:1,Άρης - Αεκ 71-68 Τελικός κυπέλλου (Aλεξάνδρειο - 1/2/98)
@@ -68,10 +68,10 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6Cdv3DVJXsA
 #EXTINF:1,Barcelona - Aris  88-89 (1987)
 plugin://plugin.video.youtube/?action=play_video&videoid=44QY9UDWURI
 
-#EXTINF:1,ΑΡΗΣ-ΤΡΕΙΣΕΡ 120-95 ΠΡΩΤΑΘΛΗΤΡΙΩΝ (1987/88)
+#EXTINF:1,Άρης-Τρέισερ 120-95 Κ.Πρωταθλητριών (1987/88)
 plugin://plugin.video.youtube/?action=play_video&videoid=3fCydJIyVKU
 
-#EXTINF:1,ΕΦΕΣ ΠΙΛΣΕΝ-ΑΡΗΣ 48-50 ΤΕΛΙΚΟΣ ΚΥΠΕΛΛΟΥΧΩΝ 1993
+#EXTINF:1,Εφες Πίλσεν - Άρης 48-50 Τελικός Κυπελλούχων (1993)
 plugin://plugin.video.youtube/?action=play_video&videoid=u9qqONa33lY
 
 #EXTINF:1,Ugoplastika Split - Aris 85-89 European Cup Champions (25/1/90)
@@ -83,25 +83,22 @@ plugin://plugin.video.youtube/?action=play_video&videoid=EODfIRCTNxI
 #EXTINF:1,Άρης - Σκαβολίνι Πέζαρο 96-95 Πρωταθλητριών (31/1/91)
 plugin://plugin.video.youtube/?action=play_video&videoid=PcOmj-sRMAU
 
-#EXTINF:1,ΕΦΕΣ ΠΙΛΣΕΝ-ΑΡΗΣ 48-50 ΤΕΛΙΚΟΣ ΚΥΠΕΛΛΟΥΧΩΝ 1993
-plugin://plugin.video.youtube/?action=play_video&videoid=u9qqONa33lY
-
 #EXTINF:1,Tofas Bursa - Aris Thessaloniki 70-88 Final Korac cup 3/4/97
 plugin://plugin.video.youtube/?action=play_video&videoid=obRelUQIrHM
 
-#EXTINF:1,ΟΛΥΜΠΙΑΚΟΣ-ΑΕΚ 0-1 (1989)
+#EXTINF:1,Ολυμπιακός - Άεκ 0-1 (1989)
 plugin://plugin.video.youtube/?action=play_video&videoid=rw4x_6JjnWA
 
-#EXTINF:1,ΑΕΚ - ΟΛΥΜΠΙΑΚΟΣ 3-1 (1992-93)
+#EXTINF:1,Άεκ - Ολυμπιακός 3-1 (1992-93)
 plugin://plugin.video.youtube/?action=play_video&videoid=CnnYKBLYYl8
 
-#EXTINF:1,ΑΕΚ-ΟΛΥΜΠΙΑΚΟΣ 3-2 (ΚΥΠΕΛΛΟ 1992-93)
+#EXTINF:1,Άεκ- Ολυμπιακός 3-2 (Κύπελλο 1992-93)
 plugin://plugin.video.youtube/?action=play_video&videoid=q1hzifhylf8
 
-#EXTINF:1,ΑΕΚ - ΠΑΝΑΘΗΝΑΙΚΟΣ 3-1 (1992-93)
+#EXTINF:1,Άεκ - Παναθηναικός 3-1 (1992-93)
 plugin://plugin.video.youtube/?action=play_video&videoid=OvNwoZwNhjQ
 
-#EXTINF:1,AEK-ΟΛΥΜΠΙΑΚΟΣ 3-0 Κυπελλο Ελλαδος (1999-00)
+#EXTINF:1,Άεκ - Ολυμπιακός 3-0 Κύπελλο Ελλάδος (1999-00)
 plugin://plugin.video.youtube/?action=play_video&videoid=SYF1Qy9u8xA
 
 #EXTINF:1,Η Πορεία της Αεκ στο Champions League το 1994
@@ -113,10 +110,10 @@ plugin://plugin.video.youtube/?action=play_video&videoid=sWOshG3iYD4
 #EXTINF:1,ΑΕΚ - Ολυμπιακός 2-1 ΤΕΛΙΚΟΣ ΚΥΠΕΛΛΟΥ 2002
 plugin://plugin.video.youtube/?action=play_video&videoid=j5ORHAaQe2Y
 
-#EXTINF:1,ΟΛΥΜΠΙΑΚΟΣ-ΑΕΚ 4-4 (15-14 ΣΤΑ ΠΕΝΑΛΤΥ) TEΛΙΚΟΣ ΚΥΠΕΛΛΟΥ 2009
+#EXTINF:1,Ολυμπιακός - Άεκ 4-4 (15-14 ΣΤΑ ΠΕΝΑΛΤΥ - Tελικός Κυπέλλου 2009)
 plugin://plugin.video.youtube/?action=play_video&videoid=YWm9YhPlE8A
 
-#EXTINF:1,ΑΕΚ - ΟΛΥΜΠΙΑΚΟΣ 2-1 (ΤΕΛΙΚΟΣ ΚΥΠΕΛΛΟΥ 2002) 
+#EXTINF:1,Άεκ - Ολυμπιακός 2-1 (Τελικός Κυπέλλου 2002) 
 plugin://plugin.video.youtube/?action=play_video&videoid=R5A5BxqmSmU
 
 #EXTINF:1,ΑΕΚ - ΟΛΥΜΠΙΑΚΟΣ 4-0 (30/03/2008)
