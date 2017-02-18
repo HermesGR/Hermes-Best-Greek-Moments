@@ -146,6 +146,12 @@ plugin://plugin.video.youtube/?action=play_video&videoid=HNY84sx23PU
 #EXTINF:1,Ολυμπιακος - AEK 1-2 (2010-Full highlights)
 plugin://plugin.video.youtube/?action=play_video&videoid=N9OLETaKX5Q
 
+#EXTINF:1,Παναθηναϊκός - Barcelona 67-66 (11/04/1996) Τελικός Final Four Euroleague
+plugin://plugin.video.youtube/?action=play_video&videoid=X0h0lWDx5QU
+
+#EXTINF:1,Παναθηναϊκός - Maccabi Tel Aviv 73-67 (20/04/2000) Τελικός Final Four 
+plugin://plugin.video.youtube/?action=play_video&videoid=nTZVTmpCDb4
+
 #EXTINF:1,ΠΑΝΑΘΗΝΑΙΚΟΣ-ΜΑΚΑΜΠΙ Τελικός Ευρωλίγκα 2011
 plugin://plugin.video.youtube/?action=play_video&videoid=RwUYWqq4fig
 
