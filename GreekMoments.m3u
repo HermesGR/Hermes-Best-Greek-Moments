@@ -29,6 +29,21 @@ plugin://plugin.video.youtube/?action=play_video&videoid=ukoNZg5AM1M
 #EXTINF:1,Euro 2004 Τελικός: Πορτογαλία - Ελλάδα 0-1
 plugin://plugin.video.youtube/?action=play_video&videoid=crxc5WQJyPc
 
+#EXTINF:1,Ο πυρετός του Μουντιάλ - Επεισόδιο 1: 1929-1969
+plugin://plugin.video.youtube/?action=play_video&videoid=7kECuN0pi4U
+
+#EXTINF:1,Ο πυρετός του Μουντιάλ - Επεισόδιο 2: 1970 - 1980
+plugin://plugin.video.youtube/?action=play_video&videoid=CQGRVqKCxrM
+
+#EXTINF:1,Ο πυρετός του Μουντιάλ - Επεισόδιο 3: 1981 - 2001
+plugin://plugin.video.youtube/?action=play_video&videoid=BB7MJN55iX0
+
+#EXTINF:1,Ο πυρετός του μουντιάλ - Επεισόδιο 5
+plugin://plugin.video.youtube/?action=play_video&videoid=rhrlF70IiC0
+
+#EXTINF:1,Δανία - 'Ελλάδα 0-1 Προκ.Παγκοσμίου Κυπέλλου 82΄ 15/10/80
+plugin://plugin.video.youtube/?action=play_video&videoid=7ZNo-mQpA1I
+
 #EXTINF:1,Μουντομπάσκετ 2006 ΕΛΛΑΔΑ-U.S.A. 101-95
 plugin://plugin.video.youtube/?action=play_video&videoid=KD_mkYiprSM
 
@@ -52,6 +67,12 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UqQa3H045oI
 
 #EXTINF:1,Ελλάδα vs ΕΣΣΔ 103-101 (Τελικός Ευρωμπάσκετ '87)
 plugin://plugin.video.youtube/?action=play_video&videoid=cGOXAheCbf4
+
+#EXTINF:1,Αφιέρωμα ΣΚΑΪ - Για πάντα πρωταθλητές (Άρης - Μπάσκετ)
+plugin://plugin.video.youtube/?action=play_video&videoid=zfArHvJFVRk
+
+#EXTINF:1,Αφιέρωμα ΣΚΑΪ - Για πάντα πρωταθλητές (Άρης - ποδόσφαιρο)
+plugin://plugin.video.youtube/?action=play_video&videoid=7c_lBbhwGwY
 
 #EXTINF:1,Άρης - Για πάντα πρωταθλητές
 plugin://plugin.video.youtube/?action=play_video&videoid=Dc62a9gj8hg
@@ -169,6 +190,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=cDtKy5vN5cU
 
 #EXTINF:1,Ο ΠΑΝΑΘΗΝΑΙΚΟΣ ΣΕ ΜΕΓΑΛΕΣ ΕΥΡΩΠΑΙΚΕΣ ΕΜΦΑΝΙΣΕΙΣ (2001-2002)
 plugin://plugin.video.youtube/?action=play_video&videoid=syRDGgTI5Ak
+
+#EXTINF:1,Για πάντα Πρωταθλητές - Παναθηναϊκός
+plugin://plugin.video.youtube/?action=play_video&videoid=KlUZM-wQmg0
 
 #EXTINF:1,AJAX - ΠΑΝΑΘΗΝΑΙΚΟΣ 0-1 (1995-96)
 plugin://plugin.video.youtube/?action=play_video&videoid=1AkFJVxtPJo
