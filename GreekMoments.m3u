@@ -2,6 +2,69 @@
 
 #EXTM3U
 
+#EXTINF:1,BASKET - ΑΕΚ - Παναθηναϊκός 87-106 (2η παρ.) (κ.δ 77-77) Full Game - Basket League 23η αγ. {26/3/217}
+plugin://plugin.video.youtube/?action=play_video&videoid=eNQFRmZ_CQQ
+
+#EXTINF:1,BASKET - ΑΕΚ - Ολυμπιακός 63-70 Full Game | Basket Legue 21η αγ. {13/3/2017}
+plugin://plugin.video.youtube/?action=play_video&videoid=GihjbK9auzg
+
+#EXTINF:1,VOLLEYBALL - Ολυμπιακός - ΠΑΟΚ 3-1 σετ (Full Game) Ημιτελικός κυπέλλου Ελλάδας Βόλεϊ {18/3/2017}
+plugin://plugin.video.youtube/?action=play_video&videoid=Rw7k5DXgl60
+
+#EXTINF:1,VOLLEYBALL - ΚΗΦΗΣΙΑ-ΟΛΥΜΠΙΑΚΟΣ 1-3 ΤΕΛΙΚΟΣ ΚΥΠΕΛΛΟY 2016/2017
+plugin://plugin.video.youtube/?action=play_video&videoid=LWeT2oRjH-4
+
+#EXTINF:1,SOCCER - ΑΕΚ-Πλατανιάς 3-0 Κύπελλο 28-2-2017
+plugin://plugin.video.youtube/?action=play_video&videoid=75FLkrh9jRM
+
+#EXTINF:1,SOCCER - ΑΕΚ-Λεβαδειακός 6-0 Κύπελλο 1-2-2017
+plugin://plugin.video.youtube/?action=play_video&videoid=YEuez2307Yo
+
+#EXTINF:1,SOCCER - Λεβαδειακός-ΑΕΚ 0-1 Κύπελλο 25-1-2017
+plugin://plugin.video.youtube/?action=play_video&videoid=axI2T2ObhBQ
+
+#EXTINF:1,SOCCER - Oλυμπιακός-ΑΕΚ 1-2 Τελικός Κυπέλλου 17-5-2016
+plugin://plugin.video.youtube/?action=play_video&videoid=Z68gQh3k36A
+
+#EXTINF:1,BASKET - ΑΕΚ - ΠΑΟΚ 77- 71 Basket League 19η αγ. {25/2/2017}
+plugin://plugin.video.youtube/?action=play_video&videoid=0aejqrBwsLk
+
+#EXTINF:1,BASKET - ΑΕΚ - Άρης 81-61 Basket League 13η αγ. {7/1/2017}
+plugin://plugin.video.youtube/?action=play_video&videoid=iJUxZL1Z3ts
+
+#EXTINF:1,SOCCER - Σεντ Ετιέν-ΑΕΚ 0-0 - 28-7-2016 
+plugin://plugin.video.youtube/?action=play_video&videoid=8kVLFJTh9rU
+
+#EXTINF:1,BASKET - Chicago Bulls vs. Olympiacos McDonald's Open 1997
+plugin://plugin.video.youtube/?action=play_video&videoid=fpaSIsG2g-s
+
+#EXTINF:1,BASKET - ΠΑΝΑΘΗΝΑΙΚΟΣ - ΟΛΥΜΠΙΑΚΟΣ 52-58 (11-04-1995)
+plugin://plugin.video.youtube/?action=play_video&videoid=0Ytw9giSwuQ
+
+#EXTINF:1,BASKET - ΟΛΥΜΠΙΑΚΟΣ - ΠΑΝΑΘΗΝΑΙΚΟΣ 77-72 ΤΕΛΙΚΟΣ 19/04/94
+plugin://plugin.video.youtube/?action=play_video&videoid=E1sTO0qA2m0
+
+#EXTINF:1,BASKET - ΟΛΥΜΠΙΑΚΟΣ - ΛΕΒΕΡΚΟΥΖΕΝ 79-63 Euroleauge 1993
+plugin://plugin.video.youtube/?action=play_video&videoid=ZrsLmOysGmU
+
+#EXTINF:1,BASKET - ΑΡΗΣ - ΟΛΥΜΠΙΑΚΟΣ 52-55 (1993-1994)
+plugin://plugin.video.youtube/?action=play_video&videoid=EKGGVQsHaVs
+
+#EXTINF:1,BASKET - ΑΡΗΣ - ΠΑΝΑΘΗΝΑΪΚΟΣ 76-100 (1993-94)
+plugin://plugin.video.youtube/?action=play_video&videoid=pwLgMOMAmTo
+
+#EXTINF:1,BASKET - ΠΑΝΑΘΗΝΑΪΚΟΣ - ΑΡΗΣ 102-86 1993-94 (Ν.ΓΚΑΛΗΣ 33p.!!)
+plugin://plugin.video.youtube/?action=play_video&videoid=kfRTsIdYQZM
+
+#EXTINF:1,BASKET - OΛΥΜΠΙΑΚΟΣ - ΑΡΗΣ 94-83 (Playoffs 1991-1992)
+plugin://plugin.video.youtube/?action=play_video&videoid=pkl0Z91LAdQ
+
+#EXTINF:1,BASKET - ΑΡΗΣ - ΟΛΥΜΠΙΑΚΟΣ 96-75 (playoffs 1991-92)
+plugin://plugin.video.youtube/?action=play_video&videoid=CDgE87ob0hg
+
+#EXTINF:1,BASKET - ΠΑΝΑΘΗΝΑΪΚΟΣ - ΑΡΗΣ 77-62 (1989-90)
+plugin://plugin.video.youtube/?action=play_video&videoid=sFZZXQ_XgVA
+
 #EXTINF:1,Για πάντα πρωταθλητές - Εθνική μπάσκετ (1o μέρος)
 plugin://plugin.video.youtube/?action=play_video&videoid=GuqxH8N_zgM
 
