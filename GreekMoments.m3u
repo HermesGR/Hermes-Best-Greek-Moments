@@ -8,7 +8,13 @@ plugin://plugin.video.youtube/?action=play_video&videoid=aizcKhqEnyw
 #EXTINF:1,SOCCER - Παναθηναϊκός - ΠΑΟΚ 2-0 (Full Game) Κύπελλο Ελλάδας | Ημιτελική φάση 1ος αγ. {12/4/2017}
 plugin://plugin.video.youtube/?action=play_video&videoid=wxGkxakasps
 
-#EXTINF:1,BASKET - Ολυμπιακός - ΠΑΟΚ 84-59 | Basket League 24η αγ. {2/4/2017}
+#EXTINF:1,SOCCER - ПАОК - Παναθηναικος 3-0 (Full Game) Super League {09/4/2017}
+plugin://plugin.video.youtube/?action=play_video&videoid=GyGzWwuyeX4
+
+#EXTINF:1,SOCCER - ΑΕΚ - Παναθηναϊκός 2-3 (Full Game) Super League {02/4/2017}
+plugin://plugin.video.youtube/?action=play_video&videoid=Jib6xv8AQS0
+
+#EXTINF:1,BASKET - Ολυμπιακός - ΠΑΟΚ 84-59 | Basket League 24η αγ. {02/4/2017}
 plugin://plugin.video.youtube/?action=play_video&videoid=Bm8FZDZ3hYQ
 
 #EXTINF:1,BASKET - ΑΕΚ - Παναθηναϊκός 87-106 (2η παρ.) (κ.δ 77-77) Full Game - Basket League 23η αγ. {26/3/217}
@@ -19,6 +25,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=GihjbK9auzg
 
 #EXTINF:1,VOLLEYBALL - Ολυμπιακός - ΠΑΟΚ 3-1 σετ (Full Game) Ημιτελικός κυπέλλου Ελλάδας Βόλεϊ {18/3/2017}
 plugin://plugin.video.youtube/?action=play_video&videoid=Rw7k5DXgl60
+
+#EXTINF:1,SOCCER - ΑΕΚ - ΠΑΟΚ 3-0 (Full Game) Super League {12/3/2017}
+plugin://plugin.video.youtube/?action=play_video&videoid=pU9KEVKtq4s
 
 #EXTINF:1,VOLLEYBALL - ΚΗΦΗΣΙΑ-ΟΛΥΜΠΙΑΚΟΣ 1-3 ΤΕΛΙΚΟΣ ΚΥΠΕΛΛΟY 2016/2017
 plugin://plugin.video.youtube/?action=play_video&videoid=LWeT2oRjH-4
